@@ -4,10 +4,15 @@ div {background-image: url("index.jpg"); background-attachment: scroll;}
 #pic3 {float: left; height: 330px; margin-right:15px; }
 #pic4 {float: right;}
 #pic5 {float: left; height: 250px; margin-right: 15px;}
-header {color:palevioletred; text-align: center;font-weight: 700;  margin-top: -1em;}
+header {color:palevioletred; text-align: center;font-weight: 700; margin-top: -1em;}
 #pheader {text-transform: uppercase;}
 #545 {color:red;}
 body{color: #216697}
+article h4 {text-align: center; margin-bottom: 0.1em;}
+article table{ border-style: double; width: 400px; margin-top: -0.3em; }
+article table th{color:black; background-color:#FFEEEE;}
+article table tr {text-align: center;}
+.cl1{background-color: aliceblue;}
 article p:last-child { margin-bottom: 2em;}
 footer {color:palevioletred; text-align: center;}
 footer p {margin-bottom: -1em;}

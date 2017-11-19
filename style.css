@@ -1,6 +1,13 @@
-header {color:palevioletred; text-align: center;font-weight: 700}
+div {background-image: url("index.jpg"); background-attachment: scroll;}
+#ind1 {float: left; height: 450px; margin-right: 15px;}
+#pic2 {float: right; margin-left: 15px;}
+#pic3 {float: left; height: 330px; margin-right:15px; }
+#pic4 {float: right;}
+#pic5 {float: left; height: 250px; margin-right: 15px;}
+header {color:palevioletred; text-align: center;font-weight: 700;  margin-top: -1em;}
 #pheader {text-transform: uppercase;}
-
+#545 {color:red;}
 body{color: #216697}
-
+article p:last-child { margin-bottom: 2em;}
 footer {color:palevioletred; text-align: center;}
+footer p {margin-bottom: -1em;}

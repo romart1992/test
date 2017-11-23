@@ -1,7 +1,7 @@
 body {margin: 10px; padding: 0; border: double; border-color: #b3d4fc}
 
 header{background-color: #216697; color: white; text-align: center;letter-spacing: 0.2em}
-div{}
+div{height: 300px;}
 
 article {background-color: #cccccc; margin-bottom: -2.5em;}
 section table {float: left; margin-left: 100px; margin-bottom: 0; color:salmon;}
